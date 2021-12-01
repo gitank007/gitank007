@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm ANKUSH YADAV</h1>
 <h3 align="center">Looking for sde-1 role</h3>
 
+  🌱 **DOT NET FULL STACK DEVELOPER **
+  
 - 🔭 currently working project **RECOMMENDER SYSTEM**
 
 - 🌱 learning a new skill in **web development**
 
 - 🤝 I’m looking for help with **Machine learning deployment**
 
-- 💬 you can ask me a question **C,CPP,PYTHON,CORE JAVA**
+- 💬 you can ask me a question **C,CPP,PYTHON,CORE JAVA C# ,Dot net Full stack Development**
 
 - 📫 contact me **ankushydv17@gmail.com**
 
