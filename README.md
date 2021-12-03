@@ -5,7 +5,7 @@
 
   
   
-- 🔭 currently working project **Full stack Development**
+- 🔭 currently working project **DOT NET Full stack Development Project**
 
 - 🌱 learning a new skill in **web development**
 
