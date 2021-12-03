@@ -5,7 +5,7 @@
 
   
   
-- 🔭 currently working project **RECOMMENDER SYSTEM**
+- 🔭 currently working project **Full stack Development**
 
 - 🌱 learning a new skill in **web development**
 
