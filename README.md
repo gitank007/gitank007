@@ -9,7 +9,7 @@
 
 - 🌱 learning a new skill in **web development**
 
-- 🤝 I’m looking for help with **Machine learning deployment**
+- 🤝 I’m looking for help with **Open Source Project Contribution**
 
 - 💬 you can ask me a question **C,CPP,PYTHON,CORE JAVA C# ,Dot net Full stack Development**
 
