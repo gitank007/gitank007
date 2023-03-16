@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANKUSH YADAV</h1>
-<h3 align="center">Looking for sde-1 role</h3>
+<h3 align="center">i am open to new opportunities and challenges</h3>
 <h3 align="center">DOT NET FULL STACK DEVELOPER</h3>
 
 
